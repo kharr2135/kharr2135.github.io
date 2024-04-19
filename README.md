@@ -3,3 +3,4 @@ Current task: resize the page in relative units to display better on different s
 
 Optional: @media queries to hide/show certain elements
 favorite word: bakabear
+Feeling: as of right now i do not mind vanilla css
