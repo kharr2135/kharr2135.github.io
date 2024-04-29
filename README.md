@@ -4,5 +4,5 @@
 <p>
 Optional: @media queries to hide/show certain elements
 favorite word: bakabear
-Feeling: as of right now i do not mind vanilla css and actually like it
+Feeling: as of right now i do not mind vanilla
 </p>
